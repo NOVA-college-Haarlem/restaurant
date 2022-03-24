@@ -23,7 +23,7 @@ footer:after,
 .hero-title h4:after,
 .current-page,
 .pagination a:hover {
-  background: #df324c;
+  background: #deab50;
 }
 nav li a.act-link,
 nav li a:hover,
@@ -83,18 +83,18 @@ nav li a:hover,
 .fullheight-carousel-holder .customNavigation a:hover,
 .carousel-link-holder h4,
 #success_page p strong {
-  color: #df324c;
+  color: #deab50;
 }
 .hot-deal:before {
-  border: 2px solid #df324c;
+  border: 2px solid #deab50;
 }
 .team-modal:before,
 .half-circle {
-  border: 4px double #df324c;
+  border: 4px double #deab50;
 }
 .half-circle {
-  border: 3px solid #df324c;
+  border: 3px solid #deab50;
 }
 .nice-select:after {
-  border-color: #df324c;
+  border-color: #deab50;
 }

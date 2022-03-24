@@ -40,8 +40,8 @@
                     <!--logo-->
                     <div class="logo-holder">
                         <a href="index.html">
-                            <img src="images/tapasbar.jpg" class="respimg logo-vis" alt="">
-                            <img src="images/tapasbar.jpg" class="respimg logo-notvis" alt="">
+                            <img src="images/logo.jpeg" class="respimg logo-vis" alt="">
+                            <img src="images/logo-small.jpeg" class="respimg logo-notvis" alt="">
                         </a>
                     </div>
                     <!--Navigation -->

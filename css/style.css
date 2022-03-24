@@ -1,5 +1,5 @@
 @charset "utf-8";
-/*====================================== 
+/*======================================
 
  [ -Main Stylesheet-
   Theme: Lambert
@@ -396,12 +396,18 @@ header{
 	float:left;
 	position:relative;
 	max-width:140px;
+	max-height: 50px;
 }
 .logo-holder a {
 	margin-top:0px;
 	display:block;
 	position:relative;
 }
+
+.logo-holder img{
+	border-radius: 10%;
+}
+
 .logo-vis {
 	position:relative;
 	z-index:1;
@@ -496,7 +502,7 @@ nav li ul {
 	min-width:150px;
 	top: 38px;
 	left: 0;
-	z-index: 1;    	
+	z-index: 1;
 	transition: all .2s ease-in-out;
 	border:1px solid rgba(255,255,255,0.41);
 	background:rgba(255,255,255,0.21);
@@ -2522,7 +2528,7 @@ article h4 a:hover {
 }
 #contact-form input[type="text"]::-webkit-input-placeholder , #contact-form textarea::-webkit-input-placeholder , #comment-form input[type="text"]::-webkit-input-placeholder , #contact-form textarea ::-webkit-input-placeholder , #reservation-form input::-webkit-input-placeholder  , #reservation-form  select::-webkit-input-placeholder , #reservation-form textarea::-webkit-input-placeholder  {
 	font-family: 'Source Sans Pro', sans-serif;
- 
+
 }
 #contact-form textarea  , #comment-form textarea {
 	height:170px;
@@ -2749,9 +2755,9 @@ nav li ul {
 	display:none;
 	top:0;
 	left: 0;
-	z-index: 1;    	
+	z-index: 1;
 	border:none;
- 
+
 }
 nav li ul li  {
 	padding:3px 0;
@@ -2761,7 +2767,7 @@ nav li ul li:first-child {
 }
 nav li:hover > ul {
 	display: block;
-} 
+}
 }
 @media only screen and  (max-width: 756px) {
 .team-item  , .three-coulms .gallery-item , .three-coulms .grid-sizer , .three-coulms .gallery-item-second , .products li.product-cat-mains{

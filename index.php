@@ -16,8 +16,9 @@
                             <h4 class="decor-title">Our story</h4>
                             <div class="separator color-separator"></div>
                         </div>
-                        <p>The History of Kitchens and Cooks gives further intimation on Mr Boulanger usual menu, stating confidently that "Boulanger served salted poultry and fresh eggs, all presented without a tablecloth on small marble tables". Numerous commentators have also referred to the supposed restaurant owner's eccentric habit of touting for custom outside his establishment, dressed in aristocratic fashion and brandishing a sword</p>
-                        <p> Numerous commentators have also referred to the supposed restaurant owner's eccentric habit of touting for custom outside his establishment, dressed in aristocratic fashion and brandishing a sword</p>
+                        <p>
+                            Los Principes began on April 26th, 2002 in the city of Granada. Focusing on the goals of “Quality, Healthy, and Tradition” the company is family operation making each dish in our own kitchens from scratch. Los Principes Restaurant has three generations of family member working together to fulfill the idea “Honor the Customer, Quality Comes First”. Through hard work and dedication, Los Principes Restaurant began building its brand around the idea of delicious and authentic traditional Spanish food.
+                        </p>
                         <a href="menu.html" class="link ajax">Discover our menu</a>
                     </div>
                     <!-- about images-->
@@ -30,15 +31,15 @@
                             <div class="single-slider owl-carousel">
                                 <!-- 1 -->
                                 <div class="item">
-                                    <img src="images/bg/1.jpg" class="respimg" alt="">
+                                    <img src="images/bg/bar.jpg" class="respimg" alt="picture of the inside of Los Principes">
                                 </div>
                                 <!-- 2 -->
                                 <div class="item">
-                                    <img src="images/bg/1.jpg" class="respimg" alt="">
+                                    <img src="images/bg/spanish-street.jpg" class="respimg" alt="The front (streetside) of Los Principes">
                                 </div>
                                 <!-- 3 -->
                                 <div class="item">
-                                    <img src="images/bg/1.jpg" class="respimg" alt="">
+                                    <img src="images/bg/tapas.jpg" class="respimg" alt="A table filled with tapas">
                                 </div>
                             </div>
                         </div>
@@ -52,7 +53,7 @@
                 <div class="bg mob-bg" style="background-image: url(images/bg/18.jpg)"></div>
                 <div class="video-container">
                     <video autoplay loop muted class="bgvid">
-                        <source src="video/1.mp4" type="video/mp4">
+                        <source src="video/spain.mp4" type="video/mp4">
                     </video>
                 </div>
             </div>
@@ -66,9 +67,9 @@
                 <div class="work-time">
                     <div class="row">
                         <div class="col-md-6">
-                            <h3>Sunday to Tuesday</h3>
+                            <h3>Sunday to Thursday</h3>
                             <div class="hours">
-                                09:00<br>
+                                11:00<br>
                                 22:00
                             </div>
                         </div>
@@ -76,7 +77,7 @@
                             <h3>Friday to Saturday</h3>
                             <div class="hours">
                                 11:00<br>
-                                19:00
+                                00:00
                             </div>
                         </div>
                     </div>
@@ -105,15 +106,15 @@
                             <div class="single-slider owl-carousel">
                                 <!-- 1 -->
                                 <div class="item">
-                                    <img src="images/slider/1.jpg" class="respimg" alt="">
+                                    <img src="images/bg/spanish-street.jpg" class="respimg" alt="">
                                 </div>
                                 <!-- 2 -->
                                 <div class="item">
-                                    <img src="images/slider/1.jpg" class="respimg" alt="">
+                                    <img src="images/gallery/paella.jpg" class="respimg" alt="">
                                 </div>
                                 <!-- 3 -->
                                 <div class="item">
-                                    <img src="images/slider/1.jpg" class="respimg" alt="">
+                                    <img src="images/gallery/restaurant.jpg" class="respimg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -124,8 +125,7 @@
                             <h4 class="decor-title">Natoque penatibus</h4>
                             <div class="separator color-separator"></div>
                         </div>
-                        <p>The History of Kitchens and Cooks gives further intimation on Mr Boulanger usual menu, stating confidently that "Boulanger served salted poultry and fresh eggs, all presented without a tablecloth on small marble tables". Numerous commentators have also referred to the supposed restaurant owner's eccentric habit of touting for custom outside his establishment, dressed in aristocratic fashion and brandishing a sword</p>
-                        <p>Restaurant owner's eccentric habit of touting for custom outside his establishment, dressed in aristocratic fashion and brandishing a sword</p>
+                        <p>Our passion for preserves leads us to offer a wide variety of surprising flavors. Our commitment to magnificent Iberian cured meats and exceptional sausages and cheeses is also evident. Many of these products are also "to take away" and so you can enjoy them at home or make an excellent and original gift.</p>
                         <a href="gallery.html" class="link">View gallery</a>
                     </div>
                 </div>
@@ -138,7 +138,7 @@
             <div class="overlay"></div>
             <div class="container">
                 <h2>Weekly Deals</h2>
-                <h3>Investigationes demonstraverunt lectores</h3>
+                <h3>Check out the fan favorites</h3>
                 <div class="bold-separator">
                     <span></span>
                 </div>
@@ -148,7 +148,7 @@
                         <div class="promotion-item">
                             <div class="promotion-title">
                                 <h4>Monday</h4>
-                                <span>( Labore et dolore )</span>
+                                <span>Discount Dessert</span>
                             </div>
                             <div class="promotion-details">
                                 <div class="promotion-desc">Oatmeal Apples</div>
@@ -200,7 +200,7 @@
                         </div>
                     </div>
                 </div>
-                <a href="reservation.html" class="align-link link">Online Reservation</a>
+                <a href="reservation.php" class="align-link link">Online Reservation</a>
             </div>
         </section>
         <!--section end-->
@@ -224,36 +224,36 @@
                     <div class="team-item">
                         <a href="team/mem1.html" class="popup-with-move-anim">
                             <span class="team-details">More info</span>
-                            <img src="images/team/thumbnails/1.jpg" alt="" class="respimg">
-                            <span class="chefname">Andy Moore</span>
-                            <span class="chefinfo">Master chef in Brooklin</span>
+                            <img src="images/team/chefcook.jpg" alt="" class="respimg">
+                            <span class="chefname">José Andres</span>
+                            <span class="chefinfo">Master chef in Los Principes</span>
                         </a>
                     </div>
                     <!-- member 2 link -->
                     <div class="team-item">
                         <a href="team/mem2.html" class="popup-with-move-anim">
                             <span class="team-details">More info</span>
-                            <img src="images/team/thumbnails/1.jpg" alt="" class="respimg">
-                            <span class="chefname">Jhon Doe</span>
-                            <span class="chefinfo">Master chef in Florida</span>
+                            <img src="images/team/miguel.jpg" alt="" class="respimg">
+                            <span class="chefname">Manuel</span>
+                            <span class="chefinfo">Waiter from Barcelona</span>
                         </a>
                     </div>
                     <!-- member 3 link -->
                     <div class="team-item">
                         <a href="team/mem3.html" class="popup-with-move-anim">
                             <span class="team-details">More info</span>
-                            <img src="images/team/thumbnails/1.jpg" alt="" class="respimg">
-                            <span class="chefname">Andy Moore</span>
-                            <span class="chefinfo">Master chef in Bronks</span>
+                            <img src="images/team/waitress2.jpg" alt="" class="respimg">
+                            <span class="chefname">Marta Sánchez</span>
+                            <span class="chefinfo">Your perfect hostess</span>
                         </a>
                     </div>
                     <!-- member 4 link -->
                     <div class="team-item">
                         <a href="team/mem4.html" class="popup-with-move-anim">
                             <span class="team-details">More info</span>
-                            <img src="images/team/thumbnails/1.jpg" alt="" class="respimg">
-                            <span class="chefname">Andy Moore</span>
-                            <span class="chefinfo">Master chef in Maiami</span>
+                            <img src="images/team/waitress.jpg" alt="" class="respimg">
+                            <span class="chefname">Monica Naranjo</span>
+                            <span class="chefinfo">The most perfect personality</span>
                         </a>
                     </div>
                 </div>
