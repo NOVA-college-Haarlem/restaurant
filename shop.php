@@ -198,12 +198,4 @@
 <!-- wrapper end -->
 </div>
 <!-- Main end -->
-<!--=============== google map ===============-->
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
-<!--=============== scripts  ===============-->
-<script type="text/javascript" src="js/jquery.min.js"></script>
-<script type="text/javascript" src="js/plugins.js"></script>
-<script type="text/javascript" src="js/scripts.js"></script>
-</body>
-
-</html>
+<?php include 'footer.php' ?>
