@@ -17,8 +17,8 @@
                 <div class="half-circle"></div>
             </div>
             <div class="separator color-separator"></div>
-            <h3>Welcome to Lambert</h3>
-            <h4>Responsive restaurant template</h4>
+            <h3>Welcome to Los Príncipes</h3>
+            <h4>Your cozy Spanish Tapas Restaurant</h4>
         </div>
     </div>
     <div class="hero-link">

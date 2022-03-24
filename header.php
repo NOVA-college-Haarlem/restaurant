@@ -4,7 +4,7 @@
 <head>
     <!--=============== basic  ===============-->
     <meta charset="UTF-8">
-    <title>Lambert - Responsive Pub / Restaurant Template</title>
+    <title>Los Príncipes - Your cozy Spanish Tapas Restaurant</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="robots" content="index, follow" />
     <meta name="keywords" content="" />
@@ -40,8 +40,8 @@
                     <!--logo-->
                     <div class="logo-holder">
                         <a href="index.html">
-                            <img src="images/logo.png" class="respimg logo-vis" alt="">
-                            <img src="images/logo2.png" class="respimg logo-notvis" alt="">
+                            <img src="images/tapasbar.jpg" class="respimg logo-vis" alt="">
+                            <img src="images/tapasbar.jpg" class="respimg logo-notvis" alt="">
                         </a>
                     </div>
                     <!--Navigation -->
