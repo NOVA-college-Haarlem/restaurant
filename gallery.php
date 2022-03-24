@@ -3,7 +3,7 @@
 <div id="wrapper">
     <div class="content">
         <section class="parallax-section header-section">
-            <div class="bg bg-parallax" style="background-image:url(images/bg/1.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
+            <div class="bg bg-parallax" style="background-image:url(images/bg/spanish-street.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
             <div class="overlay"></div>
             <div class="container">
                 <h2>Our gallery</h2>
@@ -27,107 +27,70 @@
                             <div class="gallery-item menu">
                                 <div class="grid-item-holder">
                                     <div class="box-item">
-                                        <a href="images/gallery/1.jpg" title="Image information">
+                                        <a href="images/gallery/Croquetas_Caseras.jpg" title="Image information">
                                             <span class="overlay"></span>
                                             <i class="fa fa-search"></i>
-                                            <img src="images/gallery/1.jpg" alt="">
+                                            <img src="images/gallery/Croquetas_Caseras.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>
                             </div>
                             <!-- 2 -->
-                            <div class="gallery-item rest">
+                            <div class="gallery-item menu">
                                 <div class="grid-item-holder">
                                     <div class="box-item">
-                                        <a href="images/gallery/1.jpg">
+                                        <a href="images/gallery/paella.jpg">
                                             <span class="overlay"></span>
                                             <i class="fa fa-search"></i>
-                                            <img src="images/gallery/1.jpg" alt="">
+                                            <img src="images/gallery/paella.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>
                             </div>
                             <!-- 3 -->
-                            <div class="gallery-item   menu">
+                            <div class="gallery-item menu">
                                 <div class="grid-item-holder">
                                     <div class="box-item">
-                                        <a href="images/gallery/1.jpg">
+                                        <a href="images/gallery/meat.jpg">
                                             <span class="overlay"></span>
                                             <i class="fa fa-search"></i>
-                                            <img src="images/gallery/1.jpg" alt="">
+                                            <img src="images/gallery/meat.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>
                             </div>
                             <!-- 4 -->
-                            <div class="gallery-item gallery-item-second  menu">
+                            <div class="gallery-item gallery-item-second  rest">
                                 <div class="grid-item-holder">
                                     <div class="box-item">
-                                        <a href="images/gallery/1.jpg">
+                                        <a href="images/gallery/restaurant.jpg">
                                             <span class="overlay"></span>
                                             <i class="fa fa-search"></i>
-                                            <img src="images/gallery/1.jpg" alt="">
+                                            <img src="images/gallery/restaurant.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>
                             </div>
                             <!-- 5 -->
-                            <div class="gallery-item  ovid">
+                            <div class="gallery-item ovid rest">
                                 <div class="grid-item-holder">
                                     <div class="box-item">
-                                        <a href="https://www.youtube.com/watch?v=r7TnaQ4dwwo" class="popup-youtube">
+                                        <a href="https://www.youtube.com/watch?v=RXG2VUCMPVA" class="popup-youtube">
                                             <span class="overlay"></span>
                                             <i class="fa fa-play-circle"></i>
-                                            <img src="images/gallery/2.jpg" alt="">
+                                            <img src="images/gallery/tapas.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <!-- 6 -->
-                            <div class="gallery-item  rest">
-                                <div class="grid-item-holder">
-                                    <div class="box-item">
-                                        <a href="images/gallery/1.jpg">
-                                            <span class="overlay"></span>
-                                            <i class="fa fa-search"></i>
-                                            <img src="images/gallery/1.jpg" alt="">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- 7 -->
-                            <div class="gallery-item  menu">
-                                <div class="grid-item-holder">
-                                    <div class="box-item">
-                                        <a href="images/gallery/1.jpg">
-                                            <span class="overlay"></span>
-                                            <i class="fa fa-search"></i>
-                                            <img src="images/gallery/1.jpg" alt="">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- 8 -->
-                            <div class="gallery-item  ovid rest">
-                                <div class="grid-item-holder">
-                                    <div class="box-item">
-                                        <a href="https://player.vimeo.com/video/89546048" class="popup-vimeo">
-                                            <span class="overlay"></span>
-                                            <i class="fa fa-play-circle"></i>
-                                            <img src="images/gallery/1.jpg" alt="">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
+                            <!-- end gallery items -->
                         </div>
-                        <!-- end gallery items -->
                     </div>
                 </div>
-            </div>
         </section>
         <!--=============== testimonials ===============-->
         <section class="parallax-section">
-            <div class="bg bg-parallax" style="background-image:url(images/bg/1.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
+            <div class="bg bg-parallax" style="background-image:url(images/bg/tapas.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
             <div class="overlay"></div>
             <div class="container">
                 <h2>Testimonials</h2>
@@ -187,77 +150,10 @@
     </div>
     <!--content end-->
     <!--=============== footer ===============-->
-    <footer>
-        <div class="footer-inner">
-            <div class="container">
-                <div class="row">
-                    <!--tiwtter-->
-                    <div class="col-md-4">
-                        <div class="footer-info">
-                            <h4>Our twitter</h4>
-                            <div class="twitter-holder">
-                                <div class="twitts">
-                                    <div class="twitter-feed">
-                                        <div id="twitter-feed"></div>
-                                    </div>
-                                </div>
-                                <div class="customNavigation">
-                                    <a class="prev-slide transition"><i class="fa fa-long-arrow-left"></i></a>
-                                    <a class="twit-link transition" href="https://twitter.com/katokli3mmm" target="_blank"><i class="fa fa-twitter"></i></a>
-                                    <a class="next-slide transition"><i class="fa fa-long-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--footer social links-->
-                    <div class="col-md-4">
-                        <div class="footer-social">
-                            <h3>Find us</h3>
-                            <ul>
-                                <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fa fa-pinterest"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fa fa-tumblr"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!--subscribe form-->
-                    <div class="col-md-4">
-                        <div class="footer-info">
-                            <h4>Newsletter</h4>
-                            <div class="subcribe-form">
-                                <form id="subscribe">
-                                    <input class="enteremail" name="email" id="subscribe-email" placeholder="Your email address.." spellcheck="false" type="text">
-                                    <button type="submit" id="subscribe-button" class="subscribe-button"><i class="fa fa-envelope"></i></button>
-                                    <label for="subscribe-email" class="subscribe-message"></label>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="bold-separator">
-                    <span></span>
-                </div>
-                <!--footer contacts links -->
-                <ul class="footer-contacts">
-                    <li><a href="#">+7(111)123456789</a></li>
-                    <li><a href="#">27th Brooklyn New York, NY 10065</a></li>
-                    <li><a href="#">yourmail@domain.com</a></li>
-                </ul>
-            </div>
-        </div>
-        <!--to top / privacy policy-->
-        <div class="to-top-holder">
-            <div class="container">
-                <p> <span> &#169; Lambert 2015 . </span> All rights reserved.</p>
-                <div class="to-top"><span>Back To Top </span><i class="fa fa-angle-double-up"></i></div>
-            </div>
-        </div>
-    </footer>
+    <?php include 'footer.php'; ?>
     <!--footer end -->
 </div>
 <!-- wrapper end -->
 </div>
 <!-- Main end -->
-<?php include 'footer.php' ?>
+<?php include 'scripts.php' ?>
